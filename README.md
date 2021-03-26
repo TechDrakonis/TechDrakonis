@@ -13,7 +13,8 @@ As you know I love the C++ programming language, because you can combine i.e. ha
 
 Here are some ideas to get you started: -->
 
-<!-- ### 🔭 I’m currently working on ... -->
+### 🔭 I’m currently working on ...
+... a terminal based version of TicTacToe.
 
 <!--
 - 🌱 I’m currently learning ...
