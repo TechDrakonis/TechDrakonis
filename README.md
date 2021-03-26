@@ -13,8 +13,7 @@ As you know I love the C++ programming language, because you can combine i.e. ha
 
 Here are some ideas to get you started: -->
 
-### 🔭 I’m currently working on ...
-... creating a library like the c-library of the cs50 course of the Harvard-University but using C++ and (hopefully) improve the performance and maintainability.
+<!-- ### 🔭 I’m currently working on ... -->
 
 <!--
 - 🌱 I’m currently learning ...
