@@ -2,7 +2,7 @@
 
 ## About me
 Hello and welcome to my GitHub page, I am TechDrakonis, an ambitious hobby programmer from Germany.
-<img src="https://github-readme-stats.vercel.app/api?username=TechDrakonis&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api?username=TechDrakonis&theme=gotham">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechDrakonis&layout=compact&theme=gotham">
 
 ### Why C++
